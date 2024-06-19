@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# My project
+## firebase
+firebase.ts
+## testing
+/coverage
+## production
+/build
